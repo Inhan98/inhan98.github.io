@@ -1,5 +1,5 @@
 ---
-title: What is Sound?
+title: What is Sound
 date: YYYY-MM-DD HH:MM:SS +/-TTTT
 categories: [Hearing Science, Psychology of Hearing]
 tags: [Sound]     # TAG names should always be lowercase
