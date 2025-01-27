@@ -1,6 +1,6 @@
 ---
 title: What is Sound
-date: YYYY-MM-DD HH:MM:SS +/-TTTT
+date: 2025-01-27 21:41 +0100
 categories: [Hearing Science, Psychology of Hearing]
 tags: [Sound]     # TAG names should always be lowercase
 author: <author_id>     
