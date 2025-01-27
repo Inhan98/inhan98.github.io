@@ -16,6 +16,8 @@ Sound originates from the vibrtion of an object. This vibration impressed upon, 
 
 The vibrations occur along an axis that is aligned with the direction in which the sound is propagating. This form of wave is known as **longitudinal wave**.
 
-### 1B. pure sound.
+### 1B. pure sound
 
 The sound which waveform is the sine wave, also known as a sinusoidal, are called simple tones or **pure tones**.
+
+### 1C. Pitch
