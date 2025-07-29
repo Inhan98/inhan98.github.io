@@ -224,3 +224,11 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  math_engine: mathjax      
+  math_engine_opts: {}
