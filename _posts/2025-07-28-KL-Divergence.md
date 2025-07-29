@@ -5,6 +5,7 @@ date: 2025-07-28 21:20 +0100
 categories: [Machine Learning, Loss Function]
 tags: [Machine Learning]
 author: <author_id>
+math: true
 toc: true
 comments: true
 ---
