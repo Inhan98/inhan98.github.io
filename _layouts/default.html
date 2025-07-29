@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{{ page.title }} | {{ site.title }}</title>
+
+  <!-- MathJax -->
+  <script id="MathJax-script" async
+    src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+  </script>
+
+  <!-- site-wide CSS, favicon 등 -->
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}" />
+</head>
+<body>
+  <header>
+    <h1><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
+    <!-- 네비게이션 등 -->
+  </header>
+
+  <main>
+    {{ content }}
+  </main>
+
+  <footer>
+    <p>&copy; {{ site.time | date: "%Y" }} {{ site.author }}</p>
+  </footer>
+</body>
+</html>
