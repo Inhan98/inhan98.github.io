@@ -3,7 +3,7 @@ layout: default
 title: KL Divergence
 date: 2025-07-28 21:20 +0100
 categories: [Machine Learning, Loss Function]
-tags: [Machine Learning]
+tags: [Machine Learning, Loss Function, KL Divergence]
 author: <author_id>
 math: true
 toc: true
@@ -15,8 +15,7 @@ comments: true
 
 KL Divergence (Kullback–Leibler Divergence) is a measure of how one probability distribution $Q$ diverges from a reference probability distribution $P$. 
 
-In simple terms, KL Divergence quantifies the **extra amount of information** required to represent samples from $P$ using the distribution $Q$.
-
+In simple terms, KL Divergence quantifies the **extra amount of information** required to represent samples from $P$ using the distribution $Q$
 ## Formula
 
 For **discrete** probability distributions, KL Divergence is defined as:
