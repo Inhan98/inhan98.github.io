@@ -1,8 +1,8 @@
 ---
-title: KL divergence
-date: 2025-07-29 21:20 +0100
+title: KL Divergence
+date: 2025-07-28 21:20 +0100
 categories: [Machine Learning, Loss Function]
-tags: [Machine Learing]
+tags: [Machine Learning]
 author: <author_id>
 toc: true
 comments: true
