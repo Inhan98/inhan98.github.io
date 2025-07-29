@@ -1,4 +1,5 @@
 ---
+layout: post 
 title: KL Divergence
 date: 2025-07-28 21:20 +0100
 categories: [Machine Learning, Loss Function]
